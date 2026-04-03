@@ -23,7 +23,7 @@ We will also use compiler to translate C code into assembly since all call must 
 
 ------------------------
 
-
+```
 /*	
 **		
 **	this part doesn't work and i don't know why
@@ -37,6 +37,7 @@ We will also use compiler to translate C code into assembly since all call must 
 **	   e.g  -->  llc main.c --x86-asm-syntax=intel -o main.s
 **	
 */
+```
 ------------------------
 
 for the link part we are going to use clang (or gcc) since classic ASM linker "ld" won't understand some of C assembled instruction
