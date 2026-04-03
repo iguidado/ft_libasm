@@ -1,5 +1,5 @@
 # ft_libasm
-libasm.  all shit wrote here is only applicable to x86_64 NASM on linux wich is what you need if you want to pass your project
+libasm.  all things wrote here is only applicable to x86_64 NASM on linux wich is what you need if you want to pass your project
 
 first thing is compilation {"but we didn't write code"} sure young padawan but it will go fast so don't worry
 
